@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/WenLee/AndroidStudioProjects/Travellist/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.46574074074074073" />
+        <entry key="..\:/Users/WenLee/AndroidStudioProjects/Travellist/app/src/main/res/drawable/ic_delete_white_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/WenLee/AndroidStudioProjects/Travellist/app/src/main/res/drawable/shape_button_rounded.xml" value="0.5125" />
+        <entry key="..\:/Users/WenLee/AndroidStudioProjects/Travellist/app/src/main/res/drawable/shape_image_view_border.xml" value="0.5125" />
+        <entry key="..\:/Users/WenLee/AndroidStudioProjects/Travellist/app/src/main/res/layout/activity_add_travel_list.xml" value="0.253125" />
+        <entry key="..\:/Users/WenLee/AndroidStudioProjects/Travellist/app/src/main/res/layout/activity_main.xml" value="0.3654891304347826" />
+        <entry key="..\:/Users/WenLee/AndroidStudioProjects/Travellist/app/src/main/res/layout/activity_travel_place_detail.xml" value="0.3451086956521739" />
+        <entry key="..\:/Users/WenLee/AndroidStudioProjects/Travellist/app/src/main/res/layout/item_travel_place.xml" value="0.3451086956521739" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
